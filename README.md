@@ -29,6 +29,9 @@ The games currently available are as follows:
 
 As you might expect I have a main menu where the games can be selected from  and a help menu which has been condensed. There is also a secret. But we don't talk about that... 🤐
 
+Here is a peak at the main menu:
+![alt text](https://github.com/IT-Delinquent/Games_In_PowerShell/blob/master/Games_v5_MainMenu.png)
+
 You can always [visit my site](https://mharwood.uk) which has archives of my games as individual scripts and also some of the older game collections.
 
 Enjoy! 🎉
